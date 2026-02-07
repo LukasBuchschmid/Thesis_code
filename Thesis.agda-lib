@@ -1,0 +1,4 @@
+name: Thesis
+include: .
+depend: cubical
+flags: --cubical --guardedness --rewriting 
